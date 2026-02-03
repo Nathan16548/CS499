@@ -1,33 +1,37 @@
 # CS499
+
 Computer Science Capstone 2026
+
+Welcome to my Computer Science Capstone ePortfolio. This portfolio showcases my growth and competency across key areas of computer science, including software design and engineering, algorithms and data structures, and databases. Each section contains a refined artifact and an accompanying narrative that explains the enhancements made, the skills demonstrated, and how the work aligns with the Computer Science program outcomes.
 
 ## Informal Code Review
 
 The following video provides an informal code review of the selected artifact prior to enhancement. In the video, I walk through the existing functionality, identify areas for improvement, and explain the planned enhancements aligned with the CS 499 course outcomes.
 
-Code Review Video:
+**Code Review Video:**  
 https://youtu.be/UFd-WkV6ACA
 
+## Portfolio Areas
 
+### Professional Self-Assessment  
+An overview of my growth throughout the Computer Science program and how my coursework and artifacts align with the program outcomes. This section serves as an introduction to the portfolio as a whole.  
+[View Professional Self-Assessment](professional-self-assessment.md)
 
-Welcome to my Computer Science Capstone E-portfolio! 
-The E-portfolio provides access to the most important works of mine that showcase both growth and competence in some of the major areas of computer science (including software design and engineering, algorithms/data structures, and databases). 
-Each of these areas is broken down into a single, refined artifact and a written description of the enhancements I made, the skills I used, and how each relates to one or more of our program outcomes.
+### Software Design and Engineering  
+This section highlights my work in software architecture, maintainability, and validation through a service based application developed in CS 320.  
+[View Software Design Narrative](software-design.md)  
+[View Software Design Artifact and Code](software-design/)
 
-Portfolio Areas
-Software Design & Engineering 
-I have included examples of my work on software architecture, maintainability, validation/testing through a service-based application I built in CS 320.
+### Algorithms and Data Structures  
+This section demonstrates my ability to apply algorithmic thinking and appropriate data structures to solve problems efficiently and clearly.  
+[View Algorithms Narrative](algorithms.md)  
+[View Algorithms Artifact and Code](algorithms/)
 
-Click this link to view my Software Design Enhancement Narrative:
-software-design.md
-Software Design Artifact & Code:
-software-design
-Algorithms & Data Structures
-In this area, you will see an improved version of an artifact I developed to show evidence of "algorithmic thinking" and the proper use of "data structures".
+### Databases  
+This section demonstrates structured data modeling, validation, and CRUD style data management principles aligned with foundational database concepts.  
+[View Databases Narrative](databases.md)  
+[View Databases Artifact and Code](databases/)
 
-algorithms
-Databases
-This area will provide evidence of the structure of data, and concepts relating to databases.
-databases
-About My E-portfolio
-I created this E-portfolio as a result of completing the CS 499 Computer Science Capstone course, and it is intended to prove I am prepared for positions in software development and other related areas.
+## About This Portfolio
+
+This ePortfolio was created as part of the CS 499 Computer Science Capstone course and is intended to demonstrate my preparedness for professional roles in software development and related areas within the computer science field.
