@@ -1,0 +1,19 @@
+Artifact Overview Databases Enhancement
+The artifact I have chosen for the Databases portion of my portfolio is the Contact Service application from the original CS 320 Software Testing, Automation and Quality Assurance project. The application models contact information (name, email address, phone number etc) utilizing a structured data object and stores and manages that contact information via a central service layer. Although the application utilizes in-memory storage instead of a standard database engine, it employs many of the basic tenets of a database (i.e., data modeling, validation and controlled access).
+Why I Chose This Artifact
+I chose to include this artifact in the Databases section of my portfolio because it demonstrates fundamental database concepts that are important to almost all software systems today. The Contact class serves as a structural representation of a single contact record with a defined set of fields and constraints, much like a database table schema would define. The ContactService class acts as a data management layer for the application, enforces creation, retrieval, update and deletion rules for contact records.
+I included this artifact in my portfolio because it demonstrates my ability to develop systems that enforce data integrity, prevent user's from entering invalid contact information, and allow users to create, view, edit and delete records consistently. These are the exact same skills required to work effectively with relational or non-relational databases in larger-scale applications.
+Summary of Enhancement
+In enhancing the databases portion of my artifact, I concentrated on improving the way the system handles structured data and enforces data integrity. Before storing or modifying a contact record, validation rules ensure that all constraints defined for the record are met. In addition, by having all data operations occur within the ContactService class, I mirrored how applications typically communicate with database access layers and reduced the possibility of inconsistencies and unauthorized modification of data.
+Although my artifact does not use an external database, the design is flexible enough to support persistence and can be easily adapted to persist data into a database if needed. By demonstrating how database principles apply to more than just the technology/database itself, I am able to demonstrate an understanding of how they can be applied universally.
+Reflection on What I Learned
+By enhancing my artifact, I gained a greater understanding of how database concepts are incorporated into application design whether or not a traditional database is being utilized. I learned that validating, enforcing consistent behavior and controlling access to data at the application level are crucial to the reliability of data. One of the challenges I faced was ensuring all data operations were performed in accordance with the same set of rules without repeating myself by duplicating code, which further reinforced the importance of a centralized data management layer.
+The enhanced version of this artifact has allowed me to improve my design skills to build scalable software that will be ready for future enhancements such as persistent database connections. Additionally, it has provided me with a deeper understanding and respect for the role of databases in ensuring correctness, security and long-term maintainability of software systems.
+Addressing Course Outcomes
+This artifact demonstrated development toward several CS 499 course outcomes, specifically:
+Designing and Evaluating Computing Solutions 
+Applying Well-Founded Techniques in Software and Database Practices
+Developing a Security Minded Approach to Data Validation and Integrity 
+Links
+Folder containing the Databases artifact: databases 
+Repository Home: README
