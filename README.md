@@ -1,6 +1,15 @@
 # CS499
 Computer Science Capstone 2026
 
+## Informal Code Review
+
+The following video provides an informal code review of the selected artifact prior to enhancement. In the video, I walk through the existing functionality, identify areas for improvement, and explain the planned enhancements aligned with the CS 499 course outcomes.
+
+Code Review Video:
+https://youtu.be/UFd-WkV6ACA
+
+
+
 Welcome to my Computer Science Capstone E-portfolio! 
 The E-portfolio provides access to the most important works of mine that showcase both growth and competence in some of the major areas of computer science (including software design and engineering, algorithms/data structures, and databases). 
 Each of these areas is broken down into a single, refined artifact and a written description of the enhancements I made, the skills I used, and how each relates to one or more of our program outcomes.
